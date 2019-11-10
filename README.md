@@ -34,9 +34,15 @@ From a purely stylistic point of view, I myself do favour greyscale anyway, for 
 ## Technologies Used
 HTML5<p>
 CSS3<p>
+  
+## Additional resources and tools
+<a href="https://www.w3schools.com/">W3 Schools</a><p>
+<a href="https://stackoverflow.com/">Stack Overflow</a><p>
+<a href="https://css-tricks.com/">CSS-Tricks</a><p>
+<a href="https://github.com/">GitHub</a>
 
 ## Colour-blindness research sources:
-Tuchkov, I. 2018. <a href="https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858">Color blindness: how to design an accessible user interface</a>. Accessed: November 5th 2019.<p>
+Tuchkov, I. 2018. http://www.garethbotha.com/color-blindness-usability-testing/. Accessed: November 5th 2019.<p>
 
 Bigman, A. 2012. <a href="https://99designs.ie/blog/tips/designers-need-to-understand-color-blindness/">Why all designers need to understand color blindness</a>. Accessed: November 5th 2019.
 
