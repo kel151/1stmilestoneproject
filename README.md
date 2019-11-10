@@ -17,7 +17,11 @@ Tuchkov goes to talk about how this issue can not only appear extremely discrimi
 So, in this milestone project, I have taken upon myself the additional challenge of designing with colour-blindness in mind. 
 
 ### Scope
-The purpose of this undertaking is to display my education, skills, and projects in a way that is simple and intuitive. It is meant to serve as a portfolio, showcasing my professional journey and heavily allude to my career trajectory. 
+The purpose of this undertaking is to display my education, skills, and projects in a way that is quick, simple and intuitive. It is meant to serve as a portfolio, showcasing my professional journey and career trajectory.<p>
+  
+Having worked in the recuitment space, I understand that recruitrs and employers often don't have the time to sift through detailed resumés and portfolios. Additionally, being a marketing professional, I also understand that the attention span of the average buyer/user is growing shorter by the decade. Advertisements and promotions must be able to arrest attention within 2 seconds, lest they risk losing the onlooker forever.<p>
+
+Therefore, this portfolio will be slightly more narrow in scope than some others out there, and <strong>it will prioritise the more "at-a-glance" and "on-the-go" user.</strong>
 
 ### Structure
 <ol>
