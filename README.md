@@ -1,6 +1,6 @@
 # Kelvin's Portfolio
 
-For my first milestone project, I have chosen to create a portfolio that is very simple, colour-blindness friendly, and seamless in design. This is will be a portfolio that will serve as a clear career roadmap for those interested in learning what I have to offer as an IT and marketing professional in the industry. 
+For my first milestone project, I have chosen to create a portfolio that is simple, colour-blindness friendly, seamless, and attractive in design. This is will be a portfolio that will serve as a clear career roadmap for those interested in learning what I have to offer as an IT and marketing professional in the industry. 
 
 ## UX
 ### User Stories
