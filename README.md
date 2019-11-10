@@ -17,7 +17,7 @@ Tuchkov goes to talk about how this issue can not only appear extremely discrimi
 So, in this milestone project, I have taken upon myself the additional challenge of designing with colour-blindness in mind. 
 
 ### Scope
-The purpose of this undertaking is to display my education, skills, and projects in a way that is simple and intuitive. It is meant to serve as portfolio, showcasing my professional journey and heavily allude to my career trajectory. 
+The purpose of this undertaking is to display my education, skills, and projects in a way that is simple and intuitive. It is meant to serve as a portfolio, showcasing my professional journey and heavily allude to my career trajectory. 
 
 ### Skeleton
 Landing Page<p>
@@ -40,4 +40,6 @@ Tuchkov, I. 2018. <a href="https://uxdesign.cc/color-blindness-in-user-interface
 
 Bigman, A. 2012. <a href="https://99designs.ie/blog/tips/designers-need-to-understand-color-blindness/">Why all designers need to understand color blindness</a>. Accessed: November 5th 2019.
 
-Hiller, L. 2018. <a href="https://econsultancy.com/considering-colour-blindness-in-ux-design-with-five-examples/>Considering colour blindness in UX design (with five examples)</a>. Accessed: November 5th 2019.
+Hiller, L. 2018. <a href="https://econsultancy.com/considering-colour-blindness-in-ux-design-with-five-examples/">Considering colour blindness in UX design (with five examples)</a>. Accessed: November 5th 2019.
+  
+Cravit, R. 2019. <a href="https://venngage.com/blog/color-blind-friendly-palette/">How to Use Color Blind Friendly Palettes to Make Your Charts Accessible</a>. Accessed: November 5th 2019.
