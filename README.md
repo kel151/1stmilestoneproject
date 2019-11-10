@@ -4,7 +4,7 @@ For my first milestone project, I have chosen to create a portfolio that is very
 
 ## UX
 ### User Stories
-As an employer, I want to be able to easily, swiftly, and seamlessly view all of Kelvin’s projects, both past and present.
+As an employer, I want to be able to easily, swiftly, and seamlessly view all of Kelvin’s projects, both past and present.<p>
 As a recruiter, I want to be able to easily, swiftly, and seamlessly find a list of Kelvin’s skills and what level he is in each one.
 As a member of the colour-blind community, I want to be able to view an attractive website without any serious difficulties brought about by my vision.
 
