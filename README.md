@@ -27,14 +27,16 @@ Projects<p>
 Contact<p>
 
 ### Surface
-I decided to go with the greyscale/pink colour palette because my research showed that it would be a colour-blind friendly aesthetic.<p>
+I decided to go with the greyscale and pink colour palette because my research showed that it would be a colour-blind friendly aesthetic. Many sources agreed that a minimalistic design was best, with greyscale being recommended for its simplicity and focus on shade contrast as opposed to color cotrast, which is usually the issue for some colour-blind indvuduals.<p>
 
-I also wanted something minimalistic, yet timeless, and I feel this colour palette achieves that.<p>
+From a purely stylistic point of view, I myself do favour greyscale anyway, for its minimalism, modern feel, and timeless quality. However, I decide to add a pop of pink to evoke a sense of dynamism and creativity, as I find that one of the few failings of greycale is that it can come across a little boring and repetieive at times. <p>
   
 ## Technologies Used
 HTML5<p>
 CSS3<p>
 
 ## Colour-blindness research sources:
-Tuchkov, I. 2018. <a href="https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858">Color blindness: how to design an accessible user interface</a>. Accessed: November 5th 2019.
+Tuchkov, I. 2018. <a href="https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858">Color blindness: how to design an accessible user interface</a>. Accessed: November 5th 2019.<p>
+
+Bigman, A. 2012. <a href="https://99designs.ie/blog/tips/designers-need-to-understand-color-blindness/">Why all designers need to understand color blindness</a>. Accessed: November 5th 2019.
 
