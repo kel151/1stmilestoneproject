@@ -32,8 +32,12 @@ I decided to go with the greyscale and pink colour palette because my research s
 From a purely stylistic point of view, I myself do favour greyscale anyway, for its minimalism, modern feel, and timeless quality. However, I decide to add a pop of pink to evoke a sense of dynamism and creativity, as I find that one of the few failings of greycale is that it can come across a little boring and repetieive at times. <p>
   
 ## Technologies Used
-HTML5<p>
-CSS3<p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a><p></li>
+<li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a><p></li>
+<li><a href="https://getbootstrap.com/">Bootstrap</a><p></li></li>
+<li><a href="https://git-scm.com/">Git</a>
+</ul>
   
 ## Additional resources and tools
 <ul>
