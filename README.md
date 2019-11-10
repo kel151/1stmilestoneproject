@@ -11,9 +11,9 @@ As a member of the colour-blind community, I want to be able to view an attracti
 ### Strategy
 My goal is to build a website that allows the user to find and view the information they want in as little steps as possible (across all devices) without compromising aesthetic appeal.<p>
 It was important to me to design a colour-blindness friendly UX design. This is because, in all my reading about UX design and website beautification, I have read little to nothing about accommodating the needs of people who can’t view the world like everyone else. In fact, Ivan Tuchkov highlighted this very point in an article, in which he reminds UX designers that:<p>
-“People with regular vision and people with protanopia see the same image. In the eyes of colorblind, the flower and the background are almost in the same color. And if we talk about user interfaces, such perception leads to a bunch of problems: text becomes unreadable, call-to-action buttons inconspicuous, etc.” (Tuchkov, 2018)<p>
-Tuchkov goes to talk about how this issue can not only appear extremely discriminatory, but can also hurt the client’s aims:
-“Every type of color blindness causes inconvenience; this carries over to user experience. At worst, colorblind people cannot use a product at all. It’ll upset a lot of users and a business will lose potential clients too.” (Tuchkov, 2018)<p>
+<i>“People with regular vision and people with protanopia see the same image. In the eyes of colorblind, the flower and the background are almost in the same color. And if we talk about user interfaces, such perception leads to a bunch of problems: text becomes unreadable, call-to-action buttons inconspicuous, etc.”</i> (Tuchkov, 2018)<p>
+Tuchkov goes to talk about how this issue can not only appear extremely discriminatory, but can also hurt the client’s aims:<p>
+<i>“Every type of color blindness causes inconvenience; this carries over to user experience. At worst, colorblind people cannot use a product at all. It’ll upset a lot of users and a business will lose potential clients too.”</i> (Tuchkov, 2018)<p>
 So, in this milestone project, I have taken upon myself the additional challenge of designing with colour-blindness in mind. 
 
 ### Scope
