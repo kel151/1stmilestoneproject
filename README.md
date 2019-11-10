@@ -36,10 +36,12 @@ HTML5<p>
 CSS3<p>
   
 ## Additional resources and tools
-<a href="https://www.w3schools.com/">W3 Schools</a><p>
-<a href="https://stackoverflow.com/">Stack Overflow</a><p>
-<a href="https://css-tricks.com/">CSS-Tricks</a><p>
-<a href="https://github.com/">GitHub</a>
+<ul>
+  <li><a href="https://www.w3schools.com/">W3 Schools</a><p></li>
+<li><a href="https://stackoverflow.com/">Stack Overflow</a><p></li>
+<li><a href="https://css-tricks.com/">CSS-Tricks</a><p></li></li>
+<li><a href="https://github.com/">GitHub</a>
+</ul>
 
 ## Colour-blindness research sources:
 Tuchkov, I. 2018. http://www.garethbotha.com/color-blindness-usability-testing/. Accessed: November 5th 2019.<p>
