@@ -35,6 +35,6 @@ I also wanted something minimalistic, yet timeless, and I feel this colour palet
 HTML5<p>
 CSS3<p>
 
-## Reference List pertaining to Colour-blindness research:
-Tuchkov, I. 2018. <a href="https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858">Color blindness: how to design an accessible user interface</a> Accessed: November 5th 2019.
+## Colour-blindness research sources:
+Tuchkov, I. 2018. <a href="https://uxdesign.cc/color-blindness-in-user-interfaces-66c27331b858">Color blindness: how to design an accessible user interface</a>. Accessed: November 5th 2019.
 
