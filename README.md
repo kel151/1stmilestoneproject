@@ -35,7 +35,7 @@ Therefore, this portfolio will be slightly more narrow in scope than some others
 ### Surface
 I decided to go with the greyscale and pink colour palette because my research showed that it would be a colour-blind friendly aesthetic. Many sources agreed that a minimalistic design was best, with greyscale being recommended for its simplicity and focus on shade contrast as opposed to color cotrast, which is usually the issue for some colour-blind indvuduals.<p>
 
-From a purely stylistic point of view, I myself do favour greyscale anyway, for its minimalism, modern feel, and timeless quality. However, I decided to add a pop of pink to evoke a sense of dynamism and creativity, as I find that one of the few failings of greycale is that it can come across a little boring and repetieive at times. <p>
+From a purely stylistic point of view, I myself do favour greyscale anyway, for its minimalism, modern feel, and timeless quality. However, I decided to add a pop of pink to evoke a sense of dynamism and creativity, as I find that one of the few failings of greycale is that it can come across a little boring, repetitive, and uninspired at times. <p>
   
 ## Technologies Used
 <ul>
