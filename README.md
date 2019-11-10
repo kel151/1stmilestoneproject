@@ -40,3 +40,4 @@ Tuchkov, I. 2018. <a href="https://uxdesign.cc/color-blindness-in-user-interface
 
 Bigman, A. 2012. <a href="https://99designs.ie/blog/tips/designers-need-to-understand-color-blindness/">Why all designers need to understand color blindness</a>. Accessed: November 5th 2019.
 
+Hiller, L. 2018. <a href="https://econsultancy.com/considering-colour-blindness-in-ux-design-with-five-examples/>Considering colour blindness in UX design (with five examples)</a>. Accessed: November 5th 2019.
