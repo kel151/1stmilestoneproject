@@ -33,7 +33,7 @@ From a purely stylistic point of view, I myself do favour greyscale anyway, for 
   
 ## Technologies Used
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a>- to create the scruture of the project<p></li>
+<li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a> - to create the scruture of the project and definite the "skeleton", so to speak.<p></li>
 <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a><p></li>
 <li><a href="https://getbootstrap.com/">Bootstrap</a><p></li></li>
 <li><a href="https://git-scm.com/">Git</a>
