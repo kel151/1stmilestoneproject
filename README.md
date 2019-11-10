@@ -19,12 +19,14 @@ So, in this milestone project, I have taken upon myself the additional challenge
 ### Scope
 The purpose of this undertaking is to display my education, skills, and projects in a way that is simple and intuitive. It is meant to serve as a portfolio, showcasing my professional journey and heavily allude to my career trajectory. 
 
-### Skeleton
-Landing Page<p>
-About<p>
-Skills<p>
-Projects<p>
-Contact<p>
+### Structure
+<ul>
+  <li>Landing Page</li><p>
+  <li>About</li><p>
+  <li>Skills</li><p>
+  <li>Projects</li><p>
+  <li>Contact</li><p>
+</ul>
 
 ### Surface
 I decided to go with the greyscale and pink colour palette because my research showed that it would be a colour-blind friendly aesthetic. Many sources agreed that a minimalistic design was best, with greyscale being recommended for its simplicity and focus on shade contrast as opposed to color cotrast, which is usually the issue for some colour-blind indvuduals.<p>
