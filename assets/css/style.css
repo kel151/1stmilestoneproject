@@ -1,4 +1,4 @@
-.landingtext {
+.landingpage {
         height: 100vh;
         width: 100%;
         background: url("../img/desk.jpg") no-repeat center 100%;
@@ -7,13 +7,32 @@
         font-family: 'Courier New', Courier, monospace;
         padding-top: 100px;
         }
-        
-.container2 {
+
+.aboutpage {
         background: #79a6d2;
-        text-align: center;
-        font-family: 'Courier New', Courier, monospace;
-        padding-top: 40px;
         height: 100vh;
         width: 100%;
-        
+        }
+
+.speechbubble {
+        height: 60vh;
+        width: 30%;
+        background-color: #FF69B4;
+        margin-left: 90px;
+        padding-top: 90px;
+        position: relative;
+        padding: 20px;
+        } 
+
+.speechbubble::before {
+        content: "";
+        width: 0px;
+        height: 0px;
+        position: absolute;
+        border-left: 0px solid #00bfb6;
+        border-right: 90px solid transparent;
+        border-top: 90px solid #00bfb6;
+        border-bottom: 0px solid transparent;
+        right: -90px;
+        bottom: 30px;
 }
