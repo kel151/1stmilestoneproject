@@ -12,6 +12,7 @@
         background: #79a6d2;
         height: 100vh;
         width: 100%;
+        padding-top: 60px;
         }
 
 .speechbubble {
@@ -36,3 +37,4 @@
         right: -90px;
         bottom: 30px;
 }
+
