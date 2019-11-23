@@ -42,28 +42,34 @@
             }
             
 .speechbubble-arrow {
-        border-left: 21px solid transparent;
-        border-top: 20px solid rgba(0, 0, 0, 0.2);
-        bottom: -25px;
+        border-left: 0px solid transparent;
+        border-right: 90px solid transparent;
+        border-top: 90px solid rgba(0, 0, 0, 0.2);
+        border-bottom: 0px solid transparent;
+        right: -89px;
+        bottom: 30px;
         position: absolute;
-        right: 15px;
-            }
+        }
 
 .speechbubble-arrow::before {
-        border-left: 23px solid transparent;
-        border-top: 23px solid #a7a7a7;
-        bottom: 2px;
+        border-left: 0px solid transparent;
+        border-top: 90px solid #a7a7a7;
+        border-right: 0px solid transparent;
+        border-bottom: 0px solid transparent;
+        bottom: 6px;
         content: "";
         position: absolute;
-        right: 5px;
+        right: -90px;
             }
 
 .speechbubble-arrow::after {
-        border-left: 21px solid transparent;
-        border-top: 21px solid #FF69B4;
+        border-left: 0px solid transparent;
+        border-top: 90px solid #FF69B4;
+        border-right: 90px solid transparent;
+        border-bottom: 0px solid transparent;
         bottom: 4px;
         content: "";
         position: absolute;
-        right: 6px;
+        right: -90px;
             }
 
