@@ -4,44 +4,26 @@
         }
 
 .aboutpage {
-        background: #79a6d2;
-        font-family: 'Courier New', Courier, monospace;
         text-align: center;
-        
+        font-family: 'Courier New', Courier, monospace;
+        background: #79a6d2;
         border-top: solid;
         border-bottom: solid;
-        border-color: #FF69B4;
-        border-width: thick;
+        border-color:black;
+        border-width: medium;
+        height: 100vh;
+        width: 100vw;
+        margin-bottom: 0px;
+
         }
 
-.subtitle {
-        padding: 30px;
+.next {
+        border-top: solid;
+        border-bottom: solid;
+        border-color:black;
+        border-width: medium; 
+        background: white;
 }
 
-.speechbubble {
-        background: #FF69B4;
-        border: 1px solid #a7a7a7;
-        -webkit-border-radius: 4px;
-                border-radius: 4px;
-        -webkit-box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);
-                box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);
-        font-size: 1.2rem;
-        line-height: 1.3;
-        margin: 0 auto 40px;
-        max-width: 400px;
-        padding: 15px;
-        position: relative;
-        height: 70vh;
-        width: 70%;
-        margin-left: 90px;
-        }
-        
-.speechbubble p {
-        margin-bottom: 10px;
-            }
-
-.speechbubble p:last-of-type {
-        margin-bottom: 0;
-            }
 
 
