@@ -1,29 +1,24 @@
 .landingpage {
         text-align: center;
-        font-family: 'Courier New', Courier, monospace
+        font-family: 'Courier New', Courier, monospace;
+        background: #79a6d2;
         }
 
 .aboutpage {
         text-align: center;
         font-family: 'Courier New', Courier, monospace;
-        background: #79a6d2;
+        background:white;
         border-top: solid;
         border-bottom: solid;
         border-color:black;
         border-width: medium;
         height: 100vh;
-        width: 100vw;
-        margin-bottom: 0px;
-
+        width: 100%;
         }
 
-.next {
-        border-top: solid;
+.skills {
         border-bottom: solid;
         border-color:black;
         border-width: medium; 
-        background: white;
-}
-
-
-
+        background: #79a6d2;
+        }
