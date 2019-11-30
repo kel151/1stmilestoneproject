@@ -19,6 +19,12 @@
         color: black;
 }
 
+.contacts {
+        background: #79a6d2;
+        text-align: center;
+        height: 500px;
+}
+
 .landingfiller {
         width:100%;
         height:100vh;
@@ -35,3 +41,5 @@
         height: 40px;
         width: 94%;
 }
+
+
