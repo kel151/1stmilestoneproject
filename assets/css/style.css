@@ -1,15 +1,36 @@
 .landingpage {
         background: #79a6d2;
-        text-align: center;
+        text-align: center; 
 }
 
 .aboutpage {
         text-align: center;
+        height: 500px;
 }
 
 .skills {
         background: #79a6d2;
         text-align: center;
-        
+        height: 500px;
 }
 
+.projects {
+        height: 500px;
+}
+
+.landingfiller {
+        width:100%;
+        height:100vh;
+        background-size:cover;
+}
+
+.filler {
+        width:100%;
+        height:100%;
+        background-size:cover;
+}
+
+.progress {
+        height: 40px;
+        width: 94%;
+}
