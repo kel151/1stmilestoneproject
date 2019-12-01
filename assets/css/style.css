@@ -42,4 +42,12 @@
         width: 94%;
 }
 
+.speech-bubble {
+	position: relative;
+	background: #FF69B4;
+        border-radius: .4em;
+        margin: 30px;
+        height: 70px;
+        width: 80%;
+}
 
