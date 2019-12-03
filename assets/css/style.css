@@ -23,6 +23,7 @@
         background: #79a6d2;
         text-align: center;
         height: 500px;
+        padding: 15px;
 }
 
 .landingfiller {
@@ -50,4 +51,6 @@
         height: 70px;
         width: 80%;
 }
+
+
 
