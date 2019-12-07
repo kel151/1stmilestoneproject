@@ -52,5 +52,14 @@
         width: 80%;
 }
 
+.footer {
+        color: white;
+        background-color: #343a40;
+        height:58px;
+}
+
+html {
+        scroll-behavior: smooth;
+      }
 
 
