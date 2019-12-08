@@ -2,6 +2,9 @@
         background: #79a6d2;
         text-align: center; 
 }
+.landingpage h2 {
+        opacity: 0.5;
+}
 
 .aboutpage {
         text-align: center;
