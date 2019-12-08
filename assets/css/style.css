@@ -5,24 +5,24 @@
 
 .aboutpage {
         text-align: center;
-        height: 630px;
+        height: 600px;
 }
 
 .skills {
         background: #79a6d2;
         text-align: center;
-        height: 620px;
+        height: 600px;
 }
 
 .projects {
-        height: 620px;
+        height: 600px;
         color: black;
 }
 
 .contacts {
         background: #79a6d2;
         text-align: center;
-        height: 630px;
+        height: 600px;
         padding: 15px;
 }
 
