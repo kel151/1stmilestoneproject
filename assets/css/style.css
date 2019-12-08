@@ -5,24 +5,24 @@
 
 .aboutpage {
         text-align: center;
-        height: 500px;
+        height: 630px;
 }
 
 .skills {
         background: #79a6d2;
         text-align: center;
-        height: 500px;
+        height: 620px;
 }
 
 .projects {
-        height: 500px;
+        height: 620px;
         color: black;
 }
 
 .contacts {
         background: #79a6d2;
         text-align: center;
-        height: 500px;
+        height: 630px;
         padding: 15px;
 }
 
@@ -52,14 +52,40 @@
         width: 80%;
 }
 
-.footer {
+.s-m {
+        text-align: center;
+        padding: 10px 0;
+        background: #343a40;
+        height: 60px;
+        
+}
+
+.s-m a {
+        display: inline-flex;
+        width: 40px;
+        height: 40px;
+        background: #FF69B4 ;
         color: white;
-        background-color: #343a40;
-        height:58px;
+        margin: 0 6px;
+        border-radius: 50%;
+        justify-content: center;
+        align-items: center;
+        transition: 0.2s;
+        font-size: 22px;
+}
+
+s-m a:hover {
+        background: blue;
+}
+
+.s-m a i {
+        transition: 0.2s all;
+}
+
+.s-m a:hover > i{
+        transform: scale(1.6) rotate(25deg);
 }
 
 html {
         scroll-behavior: smooth;
       }
-
-
