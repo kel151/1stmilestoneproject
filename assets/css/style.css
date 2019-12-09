@@ -8,24 +8,24 @@
 
 .aboutpage {
         text-align: center;
-        height: 600px;
+        
 }
 
 .skills {
         background: #79a6d2;
         text-align: center;
-        height: 600px;
+        
 }
 
 .projects {
-        height: 600px;
+        
         color: black;
 }
 
 .contacts {
         background: #79a6d2;
         text-align: center;
-        height: 600px;
+        
         padding: 15px;
 }
 
@@ -43,7 +43,7 @@
 
 .progress {
         height: 2.25rem;
-        /* width: 94%;  */
+        
         margin: 40px;
 }
 
