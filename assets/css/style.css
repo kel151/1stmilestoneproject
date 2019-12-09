@@ -42,8 +42,8 @@
 }
 
 .progress {
-        height: 40px;
-        width: 94%; 
+        height: 2.25rem;
+        /* width: 94%;  */
         margin: 40px;
 }
 
