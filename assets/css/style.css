@@ -14,7 +14,7 @@
 .skills {
         background: #79a6d2;
         text-align: center;
-        padding: 40px;
+        padding: 40px; 
         
 }
 
@@ -50,8 +50,10 @@
 	background: #FF69B4;
         border-radius: .4em;
         margin: 30px;
-        height: 70px;
+        height: 5rem;
         width: 80%;
+        text-align: center;
+        padding: 4%;
 }
 
 .s-m {
