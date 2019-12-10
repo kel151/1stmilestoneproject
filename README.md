@@ -62,15 +62,8 @@ I must add that I was inititially going to go with a predominatly greyscale sche
 ### Features left to implement
 <ul>
   <li>I would like to develop a  better way to display my projects. As it is now, it isn't so bad because there aren't many to show. But, in the future, I will need to come up with a more econonic use of space in that section.</li>
-  <li>I would like to add an education sections to display that information more clearly and give it its own section. As it is now, it's mentioned in the About section, but I feel it would stand out more if it were given its own place. </li>
-  <li>I would like to find a more suitable pink for the colour scheme or perhaps an entirely different colour scheme all together. After testing, it became clear that the pink I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.</li>
-</ul>
-
-This is what I see (a further example of what I see can be observed in the responsive view at the start of this readme):
-![Colour Difference 1](assets/img/colourdiff1.PNG)
-
-This is what some users may see:
-![Colour Difference 2](assets/img/colourdiff2.jpg)
+  <li>I would like to add an education sections to display that information more clearly and give it its own section. As it is now, it's mentioned in the About section, but I feel it would stand out more if it were given its own place.</li>
+  <li>I would like to improve the site's overall look by finding a more uniservsally suitable colour-scheme, as it became clear in the latter part of my testing phase that the pink I have chosen can appear very harsh for some people. An example of this is provided further below in the testing section of this readme. 
 
 ## Technologies Used
 <ul>
@@ -95,6 +88,19 @@ This is what some users may see:
   <li><a href="https://github.com/">GitHub</a><p></li>
   <li><a href="https://www.youtube.com/">Youtube</a> - used for various tutorials. I find that I am a visual learner i.e. I learn better by watching others do, so I used YouTube tutorials for help pertaining to certain things I find tricky, such as the <a href="https://www.youtube.com/watch?v=23bpce-5s8I">nav bar</a> and the <a href="https://www.youtube.com/watch?v=woVuUbDOeMk&t=5s)">social media links</a><p></li> 
 </ul>
+
+## Testing
+The first step of my testing began by using <a href="http://ami.responsivedesign.is/">Am I Responsive?</a> to deduce whether my project was indeed responsive across all devices. 
+
+The second stage involved sharing the deployed link with a few friends to double check whether it was actually responsive or not, and this is where I ran into a curious issue. It would seem that the particular shade of pink that I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.
+
+This is what most users (myself included) see:
+![Colour Difference 1](assets/img/colourdiff1.PNG)
+
+This is what some users may see:
+![Colour Difference 2](assets/img/colourdiff2.jpg)
+
+While I remain unsure what the cause of this is, it would appear that this is purely due to one's individual settings on their device, whether it be a laptop, mobile, desktop, etc. This issue does seem to be to localised to a certain few, meaning that for the average user the project should appear normally. But this finding has given me a note of improvement and pointed me towards something that I can work to make better in the future.
 
 ## Colour-blindness research sources:
 Tuchkov, I. 2018. http://www.garethbotha.com/color-blindness-usability-testing/. Accessed: November 5th 2019.<p>
