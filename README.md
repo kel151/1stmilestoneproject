@@ -83,8 +83,8 @@ This is what some users may see:
     <li><a href="https://htmlformatter.com//">HTML Formatter</a> - used to beautify html.<p></li>
     <li><a href="https://www.cleancss.com/css-beautify/">CSS Formatter</a> - used to beautify css.<p></li>
     <li><a href="http://ami.responsivedesign.is/">Am I Responsive?</a> - used to test responsiveness.<p></li>
-    <li><a href="https://www.javascript.com/">JavaScript</a><p></li> - used with Bootstrap
-    <li><a href="https://jquery.com/">JQuery</a><p></li> - used to support Java Script
+    <li><a href="https://www.javascript.com/">JavaScript</a><p></li> - used with Bootstrap.<p></li>
+    <li><a href="https://jquery.com/">JQuery</a><p></li> - used to support Java Script.<p></li>
 </ul>
   
 ### Additional resources and tools
