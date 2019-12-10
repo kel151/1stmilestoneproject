@@ -8,7 +8,7 @@ For my first milestone project, I have chosen to create a portfolio that is simp
  A live demo can be found [here](https://kel151.github.io/1stmilestoneproject/)
  
  Here is the responsive view:
- ![Responsive View](assets/img/responsiveview.PNG)
+ ![Responsive View](assets/responsiveview.gif)
 
 ## UX
 ### User Stories
