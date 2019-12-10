@@ -106,7 +106,9 @@ The third step of my testing involved the utilization of [Code Verifier](https:/
 ![Code Verifier Test](assets/img/cvtest.PNG)
 
 ## Deployment
-The site is hosted on GitHub pages, deployed directly using the master branch. The deplyed site updates automatically when new commits are made and then pushed from VSCode. To deploy the site correctly, the landing page must be named index.html. 
+The site is hosted on GitHub pages, deployed directly using the master branch. The deplyed site updates automatically when new commits are made and then pushed from VSCode. To deploy the site correctly, the landing page must be named 'index.html'.
+
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/kel151/1stmilestoneproject.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
 ## Colour-blindness research sources:
 Tuchkov, I. 2018. http://www.garethbotha.com/color-blindness-usability-testing/. Accessed: November 5th 2019.<p>
