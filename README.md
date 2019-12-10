@@ -7,7 +7,7 @@ For my first milestone project, I have chosen to create a portfolio that is simp
 ## Demo 
  A live demo can be found [here](https://kel151.github.io/1stmilestoneproject/)
  
- Here is the responsive view:
+ Here is the responsiveness preview:
  ![Responsive View](assets/responsiveview.gif)
 
 ## UX
@@ -106,7 +106,7 @@ The third step of my testing involved the utilization of [Code Verifier](https:/
 ![Code Verifier Test](assets/img/cvtest.PNG)
 
 ## Deployment
-
+The site is hosted on GitHub pages, deployed directly using the master branch. The deplyed site updates automatically when new commits are made and then pushed from VSCode. To deploy the site correctly, the landing page must be named index.html. 
 
 ## Colour-blindness research sources:
 Tuchkov, I. 2018. http://www.garethbotha.com/color-blindness-usability-testing/. Accessed: November 5th 2019.<p>
