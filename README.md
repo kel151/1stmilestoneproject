@@ -90,7 +90,7 @@ I must add that I was inititially going to go with a predominatly greyscale sche
 </ul>
 
 ## Testing
-The first step of my testing began by using <a href="http://ami.responsivedesign.is/">Am I Responsive?</a> to deduce whether my project was indeed responsive across all devices. 
+The first step of my testing began by using <a href="http://ami.responsivedesign.is/">Am I Responsive?</a> to deduce whether my project was indeed responsive across all devices, the results of which can be observed at the beginning of this readme.
 
 The second stage involved sharing the deployed link with a few friends to double check whether it was actually responsive or not, and this is where I ran into a curious issue. It would seem that the particular shade of pink that I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.
 
