@@ -2,7 +2,7 @@
 
 Stream One Project: User-Centric Frontend Development - Code Institute
 
-For my first milestone project, I have chosen to create a portfolio that is simple, colour-blindness friendly, seamless, and attractive in design. This is will be a portfolio that will serve as a clear career roadmap for those interested in learning what I have to offer as an IT and or marketing professional in the industry. 
+For my first milestone project, I have chosen to create a portfolio that is simple, modern, attractive and colour-blindness friendly in design. This is will be a portfolio that will serve as a clear career roadmap for those interested in learning what I have to offer as an IT and or marketing professional in the industry. 
 
 ## Demo 
  A live demo can be found [here](https://kel151.github.io/1stmilestoneproject/)
