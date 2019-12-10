@@ -8,43 +8,48 @@ For my first milestone project, I have chosen to create a portfolio that is simp
  A live demo can be found [here](https://kel151.github.io/1stmilestoneproject/)
  
  Here is the responsive view:
- ![Responsive View](assets/img/responsiveview.PNG)
+ ![Responsive View](assets/responsiveview.gif)
 
 ## UX
 ### User Stories
-As an employer, I want to be able to easily, swiftly, and seamlessly view all of Kelvin’s projects, both past and present.<p>
-As a recruiter, I want to be able to easily, swiftly, and seamlessly find a list of Kelvin’s skills and what level he is in each one.<p>
+As an employer, I want to be able to easily, swiftly, and seamlessly find a list of Kelvin’s skills and his proficiency in each one.<p>
+As a recruiter, I want to be able to easily, swiftly, and seamlessly view all of Kelvin’s software development and or marketing projects, both past and present.<p>
 As a member of the colour-blind community, I want to be able to view an attractive website without any serious difficulties brought about by my vision.<p>
 
 ### Strategy
-My goal is to build a website that allows the user to find and view the information they want in as little steps as possible (across all devices) without compromising aesthetic appeal.<p>
-It was important to me to design a colour-blindness friendly UX design. This is because, in all my reading about UX design and website beautification, I have read little to nothing about accommodating the needs of people who can’t view the world like everyone else. In fact, Ivan Tuchkov highlighted this very point in an article, in which he reminds UX designers that:<p>
+My goal was to build a portfolio that allows the user to find and view the information they want in as little steps as possible (across all devices) without compromising aesthetic appeal.<p>
+It was important to me to design a colour-blindness friendly UX design. This is because, in all my reading about UX/UI, I did not come across many UX/UI designers that made it a point to accommodate the needs of people who can’t view the world like everyone else. In fact, Ivan Tuchkov highlighted this very point in an article, in which he reminds UX designers that:<p>
 <i>“People with regular vision and people with protanopia see the same image. In the eyes of colorblind, the flower and the background are almost in the same color. And if we talk about user interfaces, such perception leads to a bunch of problems: text becomes unreadable, call-to-action buttons inconspicuous, etc.”</i> (Tuchkov, 2018)<p>
 Tuchkov goes to talk about how this issue can not only appear extremely discriminatory, but can also hurt the client’s aims:<p>
 <i>“Every type of color blindness causes inconvenience; this carries over to user experience. At worst, colorblind people cannot use a product at all. It’ll upset a lot of users and a business will lose potential clients too.”</i> (Tuchkov, 2018)<p>
 So, in this milestone project, I have taken upon myself the additional challenge of designing with colour-blindness in mind. 
 
 ### Scope
-The purpose of this undertaking is to display my education, skills, and projects in a way that is quick, simple and intuitive. It is meant to serve as a portfolio, showcasing my professional journey and career trajectory.<p>
+The purpose of this undertaking is to display my skills and projects in a way that is quick, simple and intuitive. It is meant to serve as a portfolio, showcasing my professional journey and career trajectory.<p>
   
-Having worked in the recuitment space, I understand that recruitrs and employers often don't have the time to sift through detailed resumés and portfolios. Additionally, being a marketing professional, I also understand that the attention span of the average buyer/user is growing shorter by the decade. Advertisements and promotions must be able to arrest attention within 2 seconds, lest they risk losing the onlooker forever.<p>
+Having worked in the recuitment space, I understand that recruitrs and employers often don't have the time to sift through detailed resumés and portfolios. Additionally, being a marketing professional, I also understand that the attention span of the average buyer/user is growing shorter by the decade. Advertisements and promotions must be able to arrest attention and or convey a message within 2 seconds, lest they risk losing the onlooker forever.<p>
 
 Therefore, this portfolio will be slightly more narrow in scope than some others out there, and <strong>it will prioritise the more "at-a-glance" and "on-the-go" user.</strong>
 
-### Structure
-<ol>
-  <li>Landing Page</li><p>
-  <li>About</li><p>
-  <li>Skills</li><p>
-  <li>Projects</li><p>
-  <li>Contact</li><p>
-</ol>
-
 ### Surface
-I decided to go with the greyscale and pink colour palette because my research showed that it would be a colour-blind friendly aesthetic. Many sources agreed that a minimalistic design was best, with greyscale being recommended for its simplicity and focus on shade contrast as opposed to color cotrast, which is usually the issue for some colour-blind indvuduals.<p>
+I decided to go with the blue, white, and pink colour scheme because my research showed that seemed to be a happy medium between a colour-blindness friendly aesthetic and an eye-catching and dynamic design. Many sources agreed that a minimalistic design was best so I opted to keep the general layout clean, clear, uncluttered.<p>
 
-From a purely stylistic point of view, I myself do favour greyscale anyway, for its minimalism, modern feel, and timeless quality. However, I decided to add a pop of pink to evoke a sense of dynamism and creativity, as I find that one of the few failings of greycale is that it can come across a little boring, repetitive, and uninspired at times. <p>
-  
+From a purely stylistic point of view, I myself do favour the combination of blue and white anyway, for its minimalism, modern feel, and timeless quality. However, I decided to add a pop of pink to evoke a sense of dynamism and creativity, as I find that one of the few failings of blue and white coupled together is that it can come across a little boring, repetitive, and uninspired at times.
+
+I must add that I was inititially going to go with a predominatly greyscale scheme because it is by far the most colour-blindness friendly aesthetic, however, that felt a little too bland for my personal taste. So, I eventually opted to go for white, blue, and pink combination while style designing with colour-blindness in mind where I could.<p>
+ 
+ ### Skeleton
+ <ul>
+    <li>Landing Page</li>
+    <li>About</li>
+    <li>Skills</li>
+    <li>Projects</li>
+    <li>Contact</li>
+</ul>
+
+### Structure
+[Here](wireframes) are a list of the wireframes I developed during the inital mock-up. They are quite self-explanatory rduimentary, but they didn't need to be overly compelx. They merely needed to serve as a base for me to extrapolate upon. Two of the wireframes had to be redone because I was having trouble with creating responsive speechbubbles, so I opted for basic rectangles instead because they are far easier to make responsive. This is in reference to the about page and the projects page, so you will see two wireframes for each of those. 
+
 ## Technologies Used
 <ul>
     <li><a href="https://code.visualstudio.com/">Visual Code Studio</a> - code editor used for this project.<p></li>
