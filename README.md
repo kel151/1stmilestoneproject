@@ -40,7 +40,9 @@ I must add that I was inititially going to go with a predominatly greyscale sche
  
  ### Skeleton
 Here are a list of the wireframes I developed during the inital mock-up. They are quite rduimentary, but they didn't need to be overly compelx. They merely needed to serve as a skeleton and a base for me to extrapolate upon. Two of the wireframes had to be redone because I was having trouble with creating responsive speechbubbles, so I opted for basic rectangles instead because they are far easier to make responsive. This is in reference to the about page and the projects page, so you will see two wireframes for each of those. 
-[Landing Page](wireframes/landing%20page.png)<br>
+<ul>
+    <li>[Landing Page](wireframes/landing%20page.png)</li>
+</ul>
 
   
 ## Technologies Used
