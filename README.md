@@ -50,16 +50,38 @@ I must add that I was inititially going to go with a predominatly greyscale sche
 ### Structure
 [Here](wireframes) are a list of the wireframes I developed during the inital mock-up. They are quite self-explanatory rduimentary, but they didn't need to be overly compelx. They merely needed to serve as a base for me to extrapolate upon. Two of the wireframes had to be redone because I was having trouble with creating responsive speechbubbles, so I opted for basic rectangles instead because they are far easier to make responsive. This is in reference to the about page and the projects page, so you will see two wireframes for each of those. 
 
-## Technologies Used
+### Technologies Used
 <ul>
     <li><a href="https://code.visualstudio.com/">Visual Code Studio</a> - code editor used for this project.<p></li>
     <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a> - to create the structure of the project and define the "skeleton", so to     speak.<p></li>
     <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> - to design and style the project, adding the "flesh to       the skeleton", so to speak<p></li>
     <li><a href="https://getbootstrap.com/">Bootstrap</a> - used as a framework to make design faster and easier.<p></li>
     <li><a href="https://git-scm.com/">Git</a> - used for version control.<p></li>
+    <li><a href="https://fontawesome.com/">Git</a> - used for social media icons.<p></li>
 </ul>
+
+### Features
+<ul>
+  <li>I opted to use a single page format to make navigation much simpler and intuitive.</li>
+  <li>The default setting for the navbar seemed to create a very stark and jarring transition to whatever you clicked on. It wasn't a very smooth effect. So, I opted for a smooth scrolling intstead of just appearing on whatever you click on, and this made for a much nicer, more fluid experience.</li>
+  <li>I made the skill progress bars textured and animated because my research showed that it is often easier for colour-blind individuals to make out things that are textured and or moving on a screen.</li>
+ <li>I created the footer to mirror the navbar in design, being black. This made for a very balanced and symmetrical visual experience when both were present and visible on the screen.</li>
+ <li>I included social media links in the footer and added a small rotation and colour changing animation to help enhance their visibility.</li>
+</ul>
+
+## Features left to implement
+<ul>
+  <li>I would like to develop a  better way to display my projects. As it is now, it isn't so bad because there aren't many to show. But, in the future, I will need to come up with a more econonic use of space in that section.</li>
+  <li>I would like to add an education sections to display that information more clearly and give it its own section. As it is now, it's mentioned in the About section, but I feel it would stand out more if it were given its own place. </li>
+  <li>I would like to find a more suitable pink for the colour-scheme. After testing, it became clear that the pink I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.</li>
+</ul>
+This is what I see:
+![Colour Difference 1](assets/img/colourdiff1.PNG)
+
+This is what some users may see:
+![Colour Difference 2](assets/img/colourdiff2.jpg)
   
-## Additional resources and tools
+### Additional resources and tools
 <ul>
   <li><a href="https://www.w3schools.com/">W3 Schools</a><p></li>
   <li><a href="https://stackoverflow.com/">Stack Overflow</a><p></li>
