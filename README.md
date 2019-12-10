@@ -50,18 +50,6 @@ I must add that I was inititially going to go with a predominatly greyscale sche
 ### Structure
 [Here](wireframes) are a list of the wireframes I developed during the inital mock-up. They are quite self-explanatory rduimentary, but they didn't need to be overly compelx. They merely needed to serve as a base for me to extrapolate upon. Two of the wireframes had to be redone because I was having trouble with creating responsive speechbubbles, so I opted for basic rectangles instead because they are far easier to make responsive. This is in reference to the about page and the projects page, so you will see two wireframes for each of those. 
 
-### Technologies Used
-<ul>
-    <li><a href="https://code.visualstudio.com/">Visual Code Studio</a> - code editor used for this project.<p></li>
-    <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a> - to create the structure of the project and define the "skeleton", so to     speak.<p></li>
-    <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> - to design and style the project, adding the "flesh to       the skeleton", so to speak<p></li>
-    <li><a href="https://getbootstrap.com/">Bootstrap</a> - used as a framework to make design faster and easier.<p></li>
-    <li><a href="https://git-scm.com/">Git</a> - used for version control.<p></li>
-    <li><a href="https://fontawesome.com/">Font Awesome</a> - used for social media icons.<p></li>
-    <li><a href="https://htmlformatter.com//">HTML Formatter</a> - used to beautify html.<p></li>
-    <li><a href="https://www.cleancss.com/css-beautify/">CSS Formatter</a> - used to beautify css.<p></li>
-</ul>
-
 ### Features
 <ul>
   <li>I opted to use a single page format to make navigation much simpler and intuitive.</li>
@@ -78,11 +66,26 @@ I must add that I was inititially going to go with a predominatly greyscale sche
   <li>I would like to find a more suitable pink for the colour scheme or perhaps an entirely different colour scheme all together. After testing, it became clear that the pink I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.</li>
 </ul>
 
-This is what I see(a further example of what I see can be observed in the responsive view at the start of this readme):
+This is what I see (a further example of what I see can be observed in the responsive view at the start of this readme):
 ![Colour Difference 1](assets/img/colourdiff1.PNG)
 
 This is what some users may see:
 ![Colour Difference 2](assets/img/colourdiff2.jpg)
+
+### Technologies Used
+<ul>
+    <li><a href="https://code.visualstudio.com/">Visual Code Studio</a> - code editor used for this project.<p></li>
+    <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a> - to create the structure of the project and define the "skeleton", so to     speak.<p></li>
+    <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> - to design and style the project, adding the "flesh to       the skeleton", so to speak<p></li>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a> - used as a framework to make design faster and easier.<p></li>
+    <li><a href="https://git-scm.com/">Git</a> - used for version control.<p></li>
+    <li><a href="https://fontawesome.com/">Font Awesome</a> - used for social media icons.<p></li>
+    <li><a href="https://htmlformatter.com//">HTML Formatter</a> - used to beautify html.<p></li>
+    <li><a href="https://www.cleancss.com/css-beautify/">CSS Formatter</a> - used to beautify css.<p></li>
+    <li><a href="http://ami.responsivedesign.is/">Am I Responsive?</a> - used to test responsiveness.<p></li>
+    <li><a href="https://www.javascript.com/">CSS JavaScript</a><p></li>
+    <li><a href="https://jquery.com/">CSS JQuery</a></li>
+</ul>
   
 ### Additional resources and tools
 <ul>
@@ -90,6 +93,7 @@ This is what some users may see:
   <li><a href="https://stackoverflow.com/">Stack Overflow</a><p></li>
   <li><a href="https://css-tricks.com/">CSS-Tricks</a><p></li></li>
   <li><a href="https://github.com/">GitHub</a>
+  <li><a href="https://www.youtube.com/">Toutube</a> - used for various tutorials. I find that I am a visual learner i.e. I learn better by watching others do, so I used YouTube tutorials for help pertaining to certain things I find tricky, such as the [nav bar](https://www.youtube.com/watch?v=23bpce-5s8I) and the [social media links](https://www.youtube.com/watch?v=woVuUbDOeMk&t=5s). 
 </ul>
 
 ## Colour-blindness research sources:
