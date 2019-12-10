@@ -31,15 +31,6 @@ Having worked in the recuitment space, I understand that recruitrs and employers
 
 Therefore, this portfolio will be slightly more narrow in scope than some others out there, and <strong>it will prioritise the more "at-a-glance" and "on-the-go" user.</strong>
 
-### Structure
-<ol>
-  <li>Landing Page</li><p>
-  <li>[Landing Page](https://kel151.github.io/1stmilestoneproject/)</li><p>
- <li>[here](https://kel151.github.io/1stmilestoneproject/)</li><p>
-  <li>[here](https://kel151.github.io/1stmilestoneproject/)</li><p>
-  <li>[here](https://kel151.github.io/1stmilestoneproject/)</li><p>
-</ol>
-
 ### Surface
 I decided to go with the blue, white, and pink colour scheme because my research showed that seemed to be a happy medium between a colour-blindness friendly aesthetic and an eye-catching and dynamic design. Many sources agreed that a minimalistic design was best so I opted to keep the general layout clean, clear, uncluttered.<p>
 
@@ -50,7 +41,7 @@ I must add that I was inititially going to go with a predominatly greyscale sche
  ### Skeleton
 Here are a list of the wireframes I developed during the inital mock-up. They are quite rduimentary, but they didn't need to be overly compelx. They merely needed to serve as a skeleton and a base for me to extrapolate upon. Two of the wireframes had to be redone because I was having trouble with creating responsive speechbubbles, so I opted for basic rectangles instead because they are far easier to make responsive. This is in reference to the about page and the projects page, so you will see two wireframes for each of those. 
 <ol>
-  <li>Landing Page</li><p>
+  <li>[Landing Page](wireframes/about%20page.png)</li><p>
   <li>About</li><p>
   <li>Skills</li><p>
   <li>Projects</li><p>
