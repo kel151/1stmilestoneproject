@@ -8,7 +8,7 @@
 
 .aboutpage {
         text-align: center;
-        padding: 30px;
+        padding: 60px 30px 30px 30px;
 }
 
 .skills {
@@ -54,6 +54,7 @@
         width: 80%;
         text-align: center;
         padding: 4%;
+        border: solid 1px black; 
 }
 
 .s-m {
@@ -78,8 +79,8 @@
         font-size: 22px;
 }
 
-s-m a:hover {
-        background: blue;
+.s-m a:hover {
+        color: blue;
 }
 
 .s-m a i {
