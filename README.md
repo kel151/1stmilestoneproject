@@ -57,7 +57,9 @@ I must add that I was inititially going to go with a predominatly greyscale sche
     <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> - to design and style the project, adding the "flesh to       the skeleton", so to speak<p></li>
     <li><a href="https://getbootstrap.com/">Bootstrap</a> - used as a framework to make design faster and easier.<p></li>
     <li><a href="https://git-scm.com/">Git</a> - used for version control.<p></li>
-    <li><a href="https://fontawesome.com/">Git</a> - used for social media icons.<p></li>
+    <li><a href="https://fontawesome.com/">Font Awesome</a> - used for social media icons.<p></li>
+    <li><a href="https://htmlformatter.com//">HTML Formatter</a> - used to beautify html.<p></li>
+    <li><a href="https://www.cleancss.com/css-beautify/">CSS Formatter</a> - used to beautify css.<p></li>
 </ul>
 
 ### Features
@@ -73,10 +75,10 @@ I must add that I was inititially going to go with a predominatly greyscale sche
 <ul>
   <li>I would like to develop a  better way to display my projects. As it is now, it isn't so bad because there aren't many to show. But, in the future, I will need to come up with a more econonic use of space in that section.</li>
   <li>I would like to add an education sections to display that information more clearly and give it its own section. As it is now, it's mentioned in the About section, but I feel it would stand out more if it were given its own place. </li>
-  <li>I would like to find a more suitable pink for the colour-scheme. After testing, it became clear that the pink I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.</li>
+  <li>I would like to find a more suitable pink for the colour scheme or perhaps an entirely different colour scheme all together. After testing, it became clear that the pink I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.</li>
 </ul>
 
-This is what I see:
+This is what I see(a further example of what I see can be observed in the responsive view at the start of this readme):
 ![Colour Difference 1](assets/img/colourdiff1.PNG)
 
 This is what some users may see:
