@@ -38,7 +38,7 @@ From a purely stylistic point of view, I myself do favour the combination of blu
 
 I must add that I was inititially going to go with a predominatly greyscale scheme because it is by far the most colour-blindness friendly aesthetic, however, that felt a little too bland for my personal taste. So, I eventually opted to go for white, blue, and pink combination while style designing with colour-blindness in mind where I could.<p>
  
- ### Skeleton
+### Skeleton
  <ul>
     <li>Landing Page</li>
     <li>About</li>
@@ -50,6 +50,21 @@ I must add that I was inititially going to go with a predominatly greyscale sche
 ### Structure
 [Here](wireframes) are a list of the wireframes I developed during the inital mock-up. They are quite self-explanatory rduimentary, but they didn't need to be overly compelx. They merely needed to serve as a base for me to extrapolate upon. Two of the wireframes had to be redone because I was having trouble with creating responsive speechbubbles, so I opted for basic rectangles instead because they are far easier to make responsive. This is in reference to the about page and the projects page, so you will see two wireframes for each of those. 
 
+### Features
+<ul>
+  <li>I opted to use a single page format to make navigation much simpler and intuitive.</li>
+  <li>The default setting for the navbar seemed to create a very stark and jarring transition to whatever you clicked on. It wasn't a very smooth effect. So, I opted for a smooth scrolling intstead of just appearing on whatever you click on, and this made for a much nicer, more fluid experience.</li>
+  <li>I made the skill progress bars textured and animated because my research showed that it is often easier for colour-blind individuals to make out things that are textured and or moving on a screen.</li>
+ <li>I created the footer to mirror the navbar in design, being black. This made for a very balanced and symmetrical visual experience when both were present and visible on the screen.</li>
+ <li>I included social media links in the footer and added a small rotation and colour changing animation to help enhance their visibility.</li>
+</ul>
+
+### Features left to implement
+<ul>
+  <li>I would like to develop a  better way to display my projects. As it is now, it isn't so bad because there aren't many to show. But, in the future, I will need to come up with a more econonic use of space in that section.</li>
+  <li>I would like to add an education sections to display that information more clearly and give it its own section. As it is now, it's mentioned in the About section, but I feel it would stand out more if it were given its own place.</li>
+  <li>I would like to improve the site's overall look by finding a more uniservsally suitable colour-scheme, as it became clear in the latter part of my testing phase that the pink I have chosen can appear very harsh for some people. An example of this is provided further below in the testing section of this readme. 
+
 ## Technologies Used
 <ul>
     <li><a href="https://code.visualstudio.com/">Visual Code Studio</a> - code editor used for this project.<p></li>
@@ -57,15 +72,35 @@ I must add that I was inititially going to go with a predominatly greyscale sche
     <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> - to design and style the project, adding the "flesh to       the skeleton", so to speak<p></li>
     <li><a href="https://getbootstrap.com/">Bootstrap</a> - used as a framework to make design faster and easier.<p></li>
     <li><a href="https://git-scm.com/">Git</a> - used for version control.<p></li>
+    <li><a href="https://fontawesome.com/">Font Awesome</a> - used for social media icons.<p></li>
+    <li><a href="https://htmlformatter.com//">HTML Formatter</a> - used to beautify html.<p></li>
+    <li><a href="https://www.cleancss.com/css-beautify/">CSS Formatter</a> - used to beautify css.<p></li>
+    <li><a href="http://ami.responsivedesign.is/">Am I Responsive?</a> - used to test responsiveness.<p></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a> - used with Bootstrap.<p></li>
+    <li><a href="https://jquery.com/">JQuery</a> - used to support Java Script.<p></li>
 </ul>
   
-## Additional resources and tools
+### Additional resources and tools
 <ul>
   <li><a href="https://www.w3schools.com/">W3 Schools</a><p></li>
   <li><a href="https://stackoverflow.com/">Stack Overflow</a><p></li>
   <li><a href="https://css-tricks.com/">CSS-Tricks</a><p></li></li>
-  <li><a href="https://github.com/">GitHub</a>
+  <li><a href="https://github.com/">GitHub</a><p></li>
+  <li><a href="https://www.youtube.com/">Youtube</a> - used for various tutorials. I find that I am a visual learner i.e. I learn better by watching others do, so I used YouTube tutorials for help pertaining to certain things I find tricky, such as the <a href="https://www.youtube.com/watch?v=23bpce-5s8I">nav bar</a> and the <a href="https://www.youtube.com/watch?v=woVuUbDOeMk&t=5s)">social media links</a><p></li> 
 </ul>
+
+## Testing
+The first step of my testing began by using <a href="http://ami.responsivedesign.is/">Am I Responsive?</a> to deduce whether my project was indeed responsive across all devices. 
+
+The second stage involved sharing the deployed link with a few friends to double check whether it was actually responsive or not, and this is where I ran into a curious issue. It would seem that the particular shade of pink that I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.
+
+This is what most users (myself included) see:
+![Colour Difference 1](assets/img/colourdiff1.PNG)
+
+This is what some users may see:
+![Colour Difference 2](assets/img/colourdiff2.jpg)
+
+While I remain unsure what the cause of this is, it would appear that this is purely due to one's individual settings on their device, whether it be a laptop, mobile, desktop, etc. This issue does seem to be to localised to a certain few, meaning that for the average user the project should appear normally. But this finding has given me a note of improvement and pointed me towards something that I can work to make better in the future.
 
 ## Colour-blindness research sources:
 Tuchkov, I. 2018. http://www.garethbotha.com/color-blindness-usability-testing/. Accessed: November 5th 2019.<p>
