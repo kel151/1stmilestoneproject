@@ -12,15 +12,16 @@
 .skills {
         background: #79a6d2;
         text-align: center;
-        padding: 40px;
+        padding: 60px 30px 30px 30px;
    }
 .projects {
         color: black;
+        padding: 60px 30px 30px 30px;
    }
 .contacts {
         background: #79a6d2;
         text-align: center;
-        padding: 15px;
+        padding: 60px 30px 30px 30px;
    }
 .landingfiller {
         width:100%;
