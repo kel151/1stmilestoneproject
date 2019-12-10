@@ -59,7 +59,7 @@ I must add that I was inititially going to go with a predominatly greyscale sche
  <li>I included social media links in the footer and added a small rotation and colour changing animation to help enhance their visibility.</li>
 </ul>
 
-## Features left to implement
+### Features left to implement
 <ul>
   <li>I would like to develop a  better way to display my projects. As it is now, it isn't so bad because there aren't many to show. But, in the future, I will need to come up with a more econonic use of space in that section.</li>
   <li>I would like to add an education sections to display that information more clearly and give it its own section. As it is now, it's mentioned in the About section, but I feel it would stand out more if it were given its own place. </li>
@@ -72,7 +72,7 @@ This is what I see (a further example of what I see can be observed in the respo
 This is what some users may see:
 ![Colour Difference 2](assets/img/colourdiff2.jpg)
 
-### Technologies Used
+## Technologies Used
 <ul>
     <li><a href="https://code.visualstudio.com/">Visual Code Studio</a> - code editor used for this project.<p></li>
     <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a> - to create the structure of the project and define the "skeleton", so to     speak.<p></li>
