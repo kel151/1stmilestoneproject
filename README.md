@@ -75,6 +75,7 @@ I must add that I was inititially going to go with a predominatly greyscale sche
   <li>I would like to add an education sections to display that information more clearly and give it its own section. As it is now, it's mentioned in the About section, but I feel it would stand out more if it were given its own place. </li>
   <li>I would like to find a more suitable pink for the colour-scheme. After testing, it became clear that the pink I used may appear differently on different devices, and this will probably negatively impact visbility. An example of this is shown below.</li>
 </ul>
+
 This is what I see:
 ![Colour Difference 1](assets/img/colourdiff1.PNG)
 
