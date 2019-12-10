@@ -38,7 +38,7 @@ From a purely stylistic point of view, I myself do favour the combination of blu
 
 I must add that I was inititially going to go with a predominatly greyscale scheme because it is by far the most colour-blindness friendly aesthetic, however, that felt a little too bland for my personal taste. So, I eventually opted to go for white, blue, and pink combination while style designing with colour-blindness in mind where I could.<p>
  
- ### Skeleton
+### Skeleton
  <ul>
     <li>Landing Page</li>
     <li>About</li>
