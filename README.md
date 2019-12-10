@@ -102,6 +102,9 @@ This is what some users may see:
 
 While I remain unsure what the cause of this is, it would appear that this is purely due to one's individual settings on their device, whether it be a laptop, mobile, desktop, etc. This issue does seem to be to localised to a certain few, meaning that for the average user the project should appear normally. But this finding has given me a note of improvement and pointed me towards something that I can work to make better in the future.
 
+The third step of my testing involved the utilization of [Code Verifier](https://validator.w3.org/), which yielded the following result:
+![Code Verifier Test](assets/img/cvtest.PNG)
+
 ## Colour-blindness research sources:
 Tuchkov, I. 2018. http://www.garethbotha.com/color-blindness-usability-testing/. Accessed: November 5th 2019.<p>
 
