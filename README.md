@@ -39,10 +39,16 @@ From a purely stylistic point of view, I myself do favour the combination of blu
 I must add that I was inititially going to go with a predominatly greyscale scheme because it is by far the most colour-blindness friendly aesthetic, however, that felt a little too bland for my personal taste. So, I eventually opted to go for white, blue, and pink combination while style designing with colour-blindness in mind where I could.<p>
  
  ### Skeleton
+ <ul>
+    <li>Landing Page</li>
+    <li>About</li>
+    <li>Skills</li>
+    <li>Projects</li>
+    <li>Contact</li>
+</ul>
+
 [Here](wireframes) are a list of the wireframes I developed during the inital mock-up. They are quite rduimentary, but they didn't need to be overly compelx. They merely needed to serve as a skeleton and a base for me to extrapolate upon. Two of the wireframes had to be redone because I was having trouble with creating responsive speechbubbles, so I opted for basic rectangles instead because they are far easier to make responsive. This is in reference to the about page and the projects page, so you will see two wireframes for each of those. 
 
-
-  
 ## Technologies Used
 <ul>
     <li><a href="https://code.visualstudio.com/">Visual Code Studio</a> - code editor used for this project.<p></li>
