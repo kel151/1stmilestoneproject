@@ -84,7 +84,7 @@ This is what some users may see:
     <li><a href="https://www.cleancss.com/css-beautify/">CSS Formatter</a> - used to beautify css.<p></li>
     <li><a href="http://ami.responsivedesign.is/">Am I Responsive?</a> - used to test responsiveness.<p></li>
     <li><a href="https://www.javascript.com/">CSS JavaScript</a><p></li>
-    <li><a href="https://jquery.com/">CSS JQuery</a></li>
+    <li><a href="https://jquery.com/">CSS JQuery</a><p></li>
 </ul>
   
 ### Additional resources and tools
@@ -92,8 +92,8 @@ This is what some users may see:
   <li><a href="https://www.w3schools.com/">W3 Schools</a><p></li>
   <li><a href="https://stackoverflow.com/">Stack Overflow</a><p></li>
   <li><a href="https://css-tricks.com/">CSS-Tricks</a><p></li></li>
-  <li><a href="https://github.com/">GitHub</a></li>
-  <li><a href="https://www.youtube.com/">Youtube</a> - used for various tutorials. I find that I am a visual learner i.e. I learn better by watching others do, so I used YouTube tutorials for help pertaining to certain things I find tricky, such as the <a href="https://www.youtube.com/watch?v=23bpce-5s8I">nav bar</a> and the <a href="https://www.youtube.com/watch?v=woVuUbDOeMk&t=5s)">social media links</a></li> 
+  <li><a href="https://github.com/">GitHub</a><p></li>
+  <li><a href="https://www.youtube.com/">Youtube</a> - used for various tutorials. I find that I am a visual learner i.e. I learn better by watching others do, so I used YouTube tutorials for help pertaining to certain things I find tricky, such as the <a href="https://www.youtube.com/watch?v=23bpce-5s8I">nav bar</a> and the <a href="https://www.youtube.com/watch?v=woVuUbDOeMk&t=5s)">social media links</a><p></li> 
 </ul>
 
 ## Colour-blindness research sources:
