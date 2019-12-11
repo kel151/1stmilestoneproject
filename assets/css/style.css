@@ -59,7 +59,8 @@
 .form-control {
    margin: 30px 0;
 }
-/* This is the footer that houses the linkable social media icons */
+/* This is the footer that houses the linkable social media icons, and this was done with
+   the help of the Codegrid tutorial on how to add social media icons to sites */
 .s-m {
    text-align: center;
    padding: 10px 0;
