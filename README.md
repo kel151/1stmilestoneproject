@@ -133,7 +133,7 @@ Botha, G. 2017. <a href="http://www.garethbotha.com/color-blindness-usability-te
  <li>My mentor, Aaron Sinnot, for all of his patience, advice, and recommendations.</li>
  <li>My friend and fellow member of the Code Institute Slack Community, Mia, for all of her advice, kindness, and encouragement.</li>
  <li>The Student Care team, particularly Claire Lally, for the constant support, encouragement, and check-in messages.</li>
- <li>Anthony, a fellow member of the Code Institute Slack Community, for his patience and perpetual willingness to help, no matter how     late.</li>
+ <li>Anthony, a fellow member of the Code Institute Slack Community, for his patience, tenacity, perpetual willingness to help, no matter how late.</li>
 </ul>
 
 The inspiration for this project came from <a href="https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive">a portfolio by Haley Schafer</a>, which was used to expemplify what a high quality milestone 1 project could be.
