@@ -36,7 +36,7 @@ I decided to go with the blue, white, and pink colour scheme because my research
 
 From a purely stylistic point of view, I myself do favour the combination of blue and white anyway, for its minimalism, modern feel, and timeless quality. However, I decided to add a pop of pink to evoke a sense of dynamism and creativity, as I find that one of the few failings of blue and white coupled together is that it can come across a little boring, repetitive, and uninspired at times.
 
-I must add that I was inititially going to go with a predominatly greyscale scheme because it is by far the most colour-blindness friendly aesthetic, however, that felt a little too bland for my personal taste. So, I eventually opted to go for white, blue, and pink combination while style designing with colour-blindness in mind where I could.<p>
+I must add that I was inititially going to go with a predominatly greyscale scheme because it is by far the most colour-blindness friendly aesthetic, however, that felt a little too bland for my personal taste. So, I eventually opted to go for a white, blue, and pink combination while still designing with colour-blindness in mind where I could.<p>
  
 ### Skeleton
  <ul>
