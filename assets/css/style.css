@@ -3,62 +3,77 @@
         background: #79a6d2;
         text-align: left;
    }
-   /* Added opacity here to break up the monotony of too much bold, black text and soften the aesthetic.
+/* Added opacity here to break up the monotony of too much bold, black text and soften the aesthetic.
       It was also to serve as an allusion to importance and a guide for where the user's attention should go first */
 .landingpage h2 {
         opacity: 0.5;
    }
+
+  /* Landing Page Image */
+.landingfiller {
+       width:100%;
+       height:100vh;
+       background-size:cover;
+ }
+
+/* About Page */ 
 .aboutpage {
         text-align: center;
         padding: 60px 30px 30px 30px;
    }
+
+/* Skills Page */
 .skills {
         background: #79a6d2;
         text-align: center;
         padding: 60px 30px 30px 30px;
    }
+
+/* Bootstrap progress bars on skills page */
+.progress {
+      height: 2.25rem;
+      margin: 40px;
+ }
+
+ /* Projects Page */
 .projects {
         color: black;
         padding: 60px 30px 30px 30px;
    }
+
+/* This is the CSS for the rectangles in the project section. They were initially speechbubbles, but
+I changed them to simple rectangles for ease of responsiveness */
+.speech-bubble {
+       position: relative;
+       background: #FF69B4;
+       border-radius: .4em;
+       margin: 30px;
+       height: 5rem;
+       width: 80%;
+       text-align: center;
+       padding: 4%;
+       border: solid 1px black;
+ }
+
+/* Contacts Page */
 .contacts {
         background: #79a6d2;
         text-align: center;
         padding: 60px 30px 30px 30px;
    }
+
+/* I discovered that without using <label> elements, the spacing became uneven, so this
+margin was used to essentially respace everything evenly */
 .form-control {
    margin: 30px 0;
 }
-.landingfiller {
-        width:100%;
-        height:100vh;
-        background-size:cover;
-   }
-.filler {
-        width:100%;
-        height:100%;
-        background-size:cover;
-   }
-.progress {
-        height: 2.25rem;
-        margin: 40px;
-   }
-.speech-bubble {
-        position: relative;
-        background: #FF69B4;
-        border-radius: .4em;
-        margin: 30px;
-        height: 5rem;
-        width: 80%;
-        text-align: center;
-        padding: 4%;
-        border: solid 1px black;
-   }
+
+/* This is the footer that houses the linkable social media icons */
 .s-m {
-        text-align: center;
-        padding: 10px 0;
-        background: #343a40;
-        height: 60px;
+      text-align: center;
+      padding: 10px 0;
+      background: #343a40;
+      height: 60px;
    }
 .s-m a {
         display: inline-flex;
@@ -83,7 +98,16 @@
 .s-m a:hover > i{
         transform: scale(1.6) rotate(25deg);
    }
+
+/* Smooth scrolling for a less jarring and more fluid user experience */
 html {
-        scroll-behavior: smooth;
+      scroll-behavior: smooth;
    }
+
+/* This is the CSS for each of the images in the sections */
+.filler {
+      width:100%;
+      height:100%;
+      background-size:cover;
+ }
    
