@@ -137,3 +137,5 @@ Botha, G. 2017. <a href="http://www.garethbotha.com/color-blindness-usability-te
 </ul>
 
 The inspiration for this project came from <a href="https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive">a portfolio by Haley Schafer</a>, which was used to expemplify what a high quality milestone 1 project could be.
+
+<strong>This is for educational use.</strong>
