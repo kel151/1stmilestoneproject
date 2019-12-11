@@ -49,6 +49,9 @@
    padding: 4%;
    border: solid 1px black;
 }
+.speech-bubble .fab {
+   color: black;
+}
 /* Contacts Page */
 .contacts {
    background: #79a6d2;
@@ -82,7 +85,7 @@
    font-size: 22px;
 }
 .s-m a:hover {
-   color: blue;
+   color: black;
    text-decoration: none;
 }
 .s-m a i {
