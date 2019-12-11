@@ -37,6 +37,7 @@
 }
 /* This is the CSS for the rectangles in the project section. They were initially speechbubbles, 
    but I changed them to simple rectangles for ease of responsiveness */
+/* This CSS is based on an example provided on https://leaverou.github.io/bubbly/ */
 .speech-bubble {
    position: relative;
    background: #FF69B4;
@@ -59,7 +60,7 @@
 .form-control {
    margin: 30px 0;
 }
-/* This is the footer that houses the linkable social media icons, and this was done with
+/* This is the footer that houses the linkable social media icons, and these icons were done with
    the help of the Codegrid tutorial on how to add social media icons to sites */
 .s-m {
    text-align: center;
