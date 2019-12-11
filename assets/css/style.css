@@ -3,7 +3,8 @@
    background: #79a6d2;
    text-align: left;
 }
-/* Added opacity here to break up the monotony of too much bold, black text and soften the aesthetic. It was also to serve as an allusion to importance and a guide for where the user's attention should go first */
+/* Added opacity here to break up the monotony of too much bold, black text and soften the aesthetic. 
+   It was also to serve as an allusion to importance and a guide for where the user's attention should go first */
 .landingpage h2 {
    opacity: 0.5;
 }
@@ -34,7 +35,8 @@
    color: black;
    padding: 60px 30px 30px 30px;
 }
-/* This is the CSS for the rectangles in the project section. They were initially speechbubbles, but I changed them to simple rectangles for ease of responsiveness */
+/* This is the CSS for the rectangles in the project section. They were initially speechbubbles, 
+   but I changed them to simple rectangles for ease of responsiveness */
 .speech-bubble {
    position: relative;
    background: #FF69B4;
@@ -52,7 +54,8 @@
    text-align: center;
    padding: 60px 30px 30px 30px;
 }
-/* I discovered that without using <label> elements, the spacing became uneven, so this margin was used to essentially respace everything evenly */
+/* I discovered that without using <label> elements, the spacing became uneven, so 
+   this margin was used to essentially respace everything evenly */
 .form-control {
    margin: 30px 0;
 }
